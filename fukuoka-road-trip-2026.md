@@ -51,6 +51,19 @@
 
 ## Day 3｜18/12：針尾／西海橋 → 長崎 Bio Park
 
+### 導航位置
+
+| 次序 | 地點 | Google Maps | Mapcode／電話 |
+|---:|---|---|---|
+| 1 | Quintessa Hotel Sasebo | [酒店位置](https://www.google.com/maps/search/?api=1&query=33.1732698%2C129.7179963) | `89 026 342*33`／0956-24-0200 |
+| 2 | 舊針尾送信所免費停車場 | [停車場入口](https://www.google.com/maps/search/?api=1&query=33.067259%2C129.750646) | `307 225 579*69`／0956-58-2718 |
+| 3 | 西海橋公園佐世保側停車場 | [國道 202 號旁停車場](https://www.google.com/maps/search/?api=1&query=33.0543948%2C129.7596648) | `307 196 102*33`／0956-58-2004 |
+| 4 | 長崎 Bio Park | [正門及停車場](https://www.google.com/maps/search/?api=1&query=32.9885201%2C129.7850309) | `262 859 194*27`／0959-27-1090 |
+| 5A | 四ヶ町商店街 | [商店街中心](https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%9B%E3%81%BC%E5%9B%9B%E3%83%B6%E7%94%BA%E5%95%86%E5%BA%97%E8%A1%97) | `89 026 114*52` |
+| 5B | 佐世保五番街 | [商場位置](https://www.google.com/maps/search/?api=1&query=33.1652237%2C129.7230605) | `307 582 361*23`／0956-37-3555 |
+
+> 針尾及西海橋的連結和 Mapcode 指向停車位置。車機輸入後應核對日文名稱；如不接受 `*`，可只輸入星號前的九位 Mapcode，或改用上列電話號碼。
+
 ### 推薦行程
 
 - 08:45：佐世保出發
