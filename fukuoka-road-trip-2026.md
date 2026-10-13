@@ -150,6 +150,39 @@
 
 ---
 
+## 動漫活動及購物（截至 13/10/2026 公布資料）
+
+### 《藥師少女的獨語》
+
+- 旅程日期內暫未有已公布的福岡期間限定店；博多 Marui 官方 POP UP 要到 **15–31/1/2027** 才舉行
+- 劇場版《藥屋のひとりごと 亡妃の秘宝》於 **11/12/2026** 上映，旅程期間可以觀看
+  - 最方便：[T・Joy 博多](https://www.google.com/maps/search/?api=1&query=T%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A4%E5%8D%9A%E5%A4%9A)，位於 JR 博多 City
+  - 另可選 [TOHO Cinemas 天神](https://www.google.com/maps/search/?api=1&query=TOHO%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%BA%E5%A4%A9%E7%A5%9E) 或 [United Cinemas Canal City 13](https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%BA%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A313)
+  - 預計為日語版本，不應假設設有中文字幕；上映時間通常臨近日期才公布
+- 劇場版一番賞由 **5/12/2026** 起在 FamilyMart 等店發售，每抽 ¥800；到訪時可能已有部分獎品售罄
+- [Animate Lachic 福岡天神](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E7%A6%8F%E5%B2%A1%E5%A4%A9%E7%A5%9E) 是九州最大 Animate，可查看一般《藥師少女》現貨，但並非同期專屬 POP UP
+
+### 同期已確認活動
+
+- **《文豪 Stray Dogs》ART & DESIGN EXHIBITION**
+  - 20/11–21/12；Space Galleria FUKUOKA（Lachic 福岡天神 8F）
+  - 10:00–20:00；21/12 最終日 17:00 關門
+- **《我的英雄學院》Character POP Store**
+  - 28/11–20/12；[Bandai Namco Cross Store 博多](https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3Cross+Store%E5%8D%9A%E5%A4%9A)
+  - 位於 Canal City 博多 South Building B1F，10:00–21:00
+- **《BLUE LOCK》Immersive & POP UP**
+  - 18/9/2026–17/1/2027；Canal City 博多 Zone8
+- **《Black Clover》Animate Fair**
+  - 5–20/12；Animate Lachic 福岡天神
+
+### 建議安排
+
+- **Day 1 有時間**：Canal City 博多，集中行 Cross Store、Zone8 及 Jump Shop
+- **Day 5 還車後／Day 6 航班前**：Animate Lachic 福岡天神及《文豪 Stray Dogs》展
+- 《藥師少女》電影放 Day 1 或 Day 5 晚上，待上映場次公布後再決定
+
+---
+
 ## 每日概覽
 
 | 日子 | 行程 | 住宿 |
