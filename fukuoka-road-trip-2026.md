@@ -159,7 +159,15 @@
   - 最方便：[T・Joy 博多](https://www.google.com/maps/search/?api=1&query=T%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A4%E5%8D%9A%E5%A4%9A)，位於 JR 博多 City
   - 另可選 [TOHO Cinemas 天神](https://www.google.com/maps/search/?api=1&query=TOHO%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%BA%E5%A4%A9%E7%A5%9E) 或 [United Cinemas Canal City 13](https://www.google.com/maps/search/?api=1&query=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%BA%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A313)
   - 預計為日語版本，不應假設設有中文字幕；上映時間通常臨近日期才公布
-- 劇場版一番賞由 **5/12/2026** 起在 FamilyMart 等店發售，每抽 ¥800；到訪時可能已有部分獎品售罄
+- 劇場版一番賞由 **5/12/2026** 起在 FamilyMart 等店發售，每抽 ¥800，沒有空獎
+  - A 賞：猫猫 Dioramiquemaster，約 15cm
+  - B 賞：壬氏 Dioramiquemaster，約 16cm
+  - D 賞：きららいずマスコット，全 2 款可選，約 10cm
+  - Last One 賞：猫猫 Figure，約 18cm；購買該店最後一張籤才可獲得
+  - Double Chance：猫猫 Figure；須按券上方式另行抽選
+  - 截至 15/10/2026，C、E、F、G、H 賞尚未公布
+  - 16/12 抵達時已是開售第 12 日，熱門門市可能售罄；出發前用官方門市搜尋核對
+  - 後備：[一番賞官方店・Canal City 博多](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E5%8D%9A%E5%A4%9A%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%E5%BA%97)；如只想買指定獎品，可到駿河屋／Lashinbang 看二手拆售
 - [Animate Lachic 福岡天神](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E7%A6%8F%E5%B2%A1%E5%A4%A9%E7%A5%9E) 是九州最大 Animate，可查看一般《藥師少女》現貨，但並非同期專屬 POP UP
 
 ### 同期已確認活動
